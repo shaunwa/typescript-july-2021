@@ -1,0 +1,20 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "4.14.171",
+    "ts-node": "10.1.0",
+    "typescript": "4.3.5"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
